@@ -367,10 +367,7 @@ The implementation is intentionally written in C and focuses on shell internals,
 
 This is not intended to be a full Bash replacement. It implements the subset of behavior required by the project subject.
 
-## Authors
-
-`tmege`  
-42 Barcelona student
+## Author
 
 Christian Gómez (`chgomez`)  
 Junior Software Developer in training at 42 Barcelona  
