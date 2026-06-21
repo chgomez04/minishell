@@ -1,0 +1,16 @@
+# Project build output
+/minishell
+/obj/
+
+# Local Libft build output
+/Libft/libft.a
+/Libft/obj/
+*.o
+
+# Readline history and editor files
+.history
+*.swp
+*~
+
+# macOS metadata
+.DS_Store
