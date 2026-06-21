@@ -367,8 +367,7 @@ The implementation is intentionally written in C and focuses on shell internals,
 
 This is not intended to be a full Bash replacement. It implements the subset of behavior required by the project subject.
 
-## Author
+## Authors
 
-Christian Gómez (`chgomez`)  
-Junior Software Developer in training at 42 Barcelona  
-GitHub: [github.com/chgomez04](https://github.com/chgomez04)
+- **tmege** — [tmege@student.42barcelona.com](mailto:tmege@student.42barcelona.com)
+- **chgomez** — [chgomez@student.42barcelona.com](mailto:chgomez@student.42barcelona.com)
